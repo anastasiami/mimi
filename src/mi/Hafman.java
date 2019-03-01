@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-public class Hafman {
+public class Haman {
 
   public static void main(String[] args) {
     Scanner enter = new Scanner(System.in);
